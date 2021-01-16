@@ -10,3 +10,17 @@ The application should help you navigate a large number of tasks and notes, allo
 * Editing screen (note, list)
 * Settings
 * About
+
+## Main features
+* Create a simple text note
+* Create a to-do or shopping list
+* Display creation date
+* Specify the end date
+* Specify frequency: daily, weekly, monthly, annually
+* Tags
+
+## Additional features
+* Synchronizing data between different devices
+* Set interim target dates
+* Choosing a color for your note
+* Day and night themes
